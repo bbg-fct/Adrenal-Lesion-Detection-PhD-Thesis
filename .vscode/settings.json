@@ -1,0 +1,11 @@
+{
+    "github.copilot.enable": {
+        "plaintext": "true",
+        "latex": "true"
+    },
+    "grammarly.config.documentDialect": "british",
+    "grammarly.config.documentDomain": "academic",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 13,
+    "editor.wordWrap": "bounded"
+}
