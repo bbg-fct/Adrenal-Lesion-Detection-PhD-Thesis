@@ -2,7 +2,7 @@
 # CUSTOMIZATION AREA HERE
 #############################################################################
 # If you want to force the name of the main file, uncomment the following command
-# MF:="YOUR_MAIN_TEX_FILE" # without the ".tex" extension
+MF:="BernardoGoncalvesPhDThesis" # without the ".tex" extension
 
 # Define V to the ommand to the name of your PDF viewer
 V:=open -a skim
